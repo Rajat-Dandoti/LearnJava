@@ -1,0 +1,29 @@
+Find the Largest Element in an Array:
+Write a program to find the largest element in a given array. - Done
+
+Reverse an Array:
+Write a function to reverse an array in-place. - Done
+
+Check if an Array is Sorted:
+Determine if a given array is sorted in ascending order. - Done
+
+Find the Second Largest Element:
+Write a program to find the second largest element in an array without sorting.
+
+Calculate the Sum of Array Elements:
+Implement a program to calculate the sum of all elements in an array. - Done
+
+Count the Occurrence of an Element:
+Write a function to count how many times a specific element appears in an array. - Done
+
+Remove Duplicates from an Array:
+Create a program to remove duplicates from a sorted array.
+
+Find the Index of an Element:
+Write a function to find the index of a given element in an array (return -1 if not found).
+
+Find All Even Numbers in an Array:
+Print all even numbers in a given array.
+
+Left Rotate an Array by One Position:
+Write a program to left rotate an array by one position.
